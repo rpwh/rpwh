@@ -1,5 +1,8 @@
-### Hi there 👋
+### <img src="ferris_smile.png" width="25"> Welcome!
 
+My name is Rory Harrison.
+
+I am a Rust and Python enthusiast working on a variety of projects.
 <!--
 **rpwh/rpwh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
